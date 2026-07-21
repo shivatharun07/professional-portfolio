@@ -60,13 +60,13 @@ export function AboutSection() {
               icon={GraduationCap}
               title="Education"
               description="B.E CSE (Cybersecurity)"
-              detail="CGPA: 7.5"
+              detail="CGPA: 7.64"
             />
             <InfoCard
               icon={Shield}
               title="Focus Area"
-              description="Ethical Hacking"
-              detail="Penetration Testing"
+              description="SOC"
+              detail="Incident Responder"
             />
             <InfoCard
               icon={Target}
@@ -97,7 +97,7 @@ export function AboutSection() {
               year="Present"
               title="Sri Eshwar College of Engineering"
               subtitle="B.E CSE (Cybersecurity)"
-              score="CGPA: 7.5"
+              score="CGPA: 7.64"
             />
             <TimelineCard
               year="2023 - 2024"
